@@ -1,0 +1,18 @@
+﻿
+.scoreBox {
+    border:solid 1px #0094ff;
+    /*background-color: #467ed5;*/
+    padding:8px;
+    -webkit-border-radius: 0px 9px 0px 0px;
+    border-radius: 0px 9px 0px 0px;
+}
+
+.box-shadow {
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+/*.col-md-4, .col-sm-3, .col-sm-3 {
+    border:solid 1px #000;
+}*/
